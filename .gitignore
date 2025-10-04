@@ -1,0 +1,38 @@
+# Virtual Environment
+weather_env/
+venv/
+env/
+ENV/
+
+# Database
+weather_data.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Flask
+instance/
+.webassets-cache
+
+# Output files
+*.xlsx
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+data/
+
